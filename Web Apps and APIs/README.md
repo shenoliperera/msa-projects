@@ -1,6 +1,7 @@
 Target persona 
-o	People shopping during the COVID-19 pandemic
-o	Demographics – anyone who has a smart device, especially, in the age group of 15-55
+
+People shopping during the COVID-19 pandemic
+Demographics – anyone who has a smart device, especially, in the age group of 15-55
 
 As we all know, the pandemic lead to a new normal, therefore, we all have to adjust to the new settings and practice COVID safe measures. One such measure is the social distancing rule of 1.5m.
 
